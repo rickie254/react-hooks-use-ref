@@ -12,6 +12,8 @@ function Ticker() {
     };
   }, []);
 
+  // console.log(price)
+
   return (
     <div>
       <h1>TickerMaster</h1>
